@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WIFI INFO</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="wifi_mac_address">WIFI MAC ADDRESS</string>
+    <string name="wifi_ip_address">WIFI IP ADDRESS</string>
+    <string name="wifi_netword_id">WIFI NETWORD ID</string>
+    <string name="wifi_netword_speed">WIFI NETWORD SPEED</string>
+    <string name="wifi_signal_strength">WIFI SIGNAL STRENGTH</string>
+
+    <string name="mobile_ip_address">MOBILE IP ADDRESS</string>
+    <string name="mobile_signal_strength">MOBILE SIGNAL STRENGTH</string>
+    <string name="conn_info">CONNECTION INFO</string>
+</resources>
